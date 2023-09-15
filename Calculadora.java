@@ -2,7 +2,7 @@ public class Calculadora {
 	
 	public class Soma {
 	    public static int somar(int a, int b) {
-	        return a + b;
+	        return a + b; // retorna o valor esperado
 	    }
 	    
 	    public class Subtracao{
