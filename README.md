@@ -1,28 +1,22 @@
-# Teste Unitário do Projeto Calculadora 
+# Teste Unitário do Projeto Calculadora
 # Calculadora Test
 
 
-### Sobre 
+## Sobre
+O projeto consiste em realizar testes unitários com o JUnit 5 no Eclipse para garantir testes de software em projetos.
 
-:small_blue_diamond:*Sobre o Projeto* 
+## Utilidade
+Util para verificar possiveis erros no codigo durante o desenvolvimento, documentar erros e criar possiveis soluções.
 
-Como processadores, placas-mãe, placas de vídeo, memória RAM, discos rígidos, SSDs e fontes de alimentação. Esses componentes são essenciais para montar ou atualizar seu próprio sistema de computador.
+## Utilização
+Adicione a biblioteca JUnit 5 no momento da criação do projeto no Eclipse e coloque o codigo em java da calculadora main principal e na branch secundaria coloque a calculadora teste para rodar junto com o JUnit5.
 
-:small_blue_diamond:*Utilidade*
+## Ajuda
+Caso tenha alguma dúvida em alguma etapa, procure saber na documentação JUnit 5 através desse link https://junit.org/junit5/docs/current/user-guide/
 
-Como teclados, mouses, monitores, impressoras, scanners e câmeras. Esses dispositivos auxiliares complementam seu sistema principal e melhoram a experiência de uso.
-
-:small_blue_diamond:*Como Utilizar*
-
-Como teclados, mouses, monitores, impressoras, scanners e câmeras. Esses dispositivos auxiliares complementam seu sistema principal e melhoram a experiência de uso.
-
-:small_blue_diamond:*Ajuda*
-
-Como teclados, mouses, monitores, impressoras, scanners e câmeras. Esses dispositivos auxiliares complementam seu sistema principal e melhoram a experiência de uso.
-
-:small_blue_diamond:*Contribuições*
-
+## Contribuições
 Mel Plens Angelis
+
 
 
 
