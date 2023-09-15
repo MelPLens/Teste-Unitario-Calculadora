@@ -6,19 +6,19 @@
 
 :small_blue_diamond:*Sobre o Projeto* 
 
-Como processadores, placas-mãe, placas de vídeo, memória RAM, discos rígidos, SSDs e fontes de alimentação. Esses componentes são essenciais para montar ou atualizar seu próprio sistema de computador.
+O projeto consiste em realizar testes unitários com o JUnit 5 no Eclipse para garantir testes de software em projetos.
 
 :small_blue_diamond:*Utilidade*
 
-Como teclados, mouses, monitores, impressoras, scanners e câmeras. Esses dispositivos auxiliares complementam seu sistema principal e melhoram a experiência de uso.
+Util para verificar possiveis erros no codigo e documentar e criar possiveis soluções.
 
 :small_blue_diamond:*Como Utilizar*
 
-Como teclados, mouses, monitores, impressoras, scanners e câmeras. Esses dispositivos auxiliares complementam seu sistema principal e melhoram a experiência de uso.
+Adicione a biblioteca JUnit 5 no momento da criação do projeto no Eclipse e coloque o codigo em java da calculadora main principal e na branch secundaria coloque a calculadora teste para rodar junto com o JUnit5.
 
 :small_blue_diamond:*Ajuda*
 
-Como teclados, mouses, monitores, impressoras, scanners e câmeras. Esses dispositivos auxiliares complementam seu sistema principal e melhoram a experiência de uso.
+Caso tenha alguma dúvida em alguma etapa, prcure saber na documentação JUnit 5 através desse link https://junit.org/junit5/docs/current/user-guide/
 
 :small_blue_diamond:*Contribuições*
 
