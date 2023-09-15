@@ -18,7 +18,7 @@ Adicione a biblioteca JUnit 5 no momento da criação do projeto no Eclipse e co
 
 :small_blue_diamond:*Ajuda*
 
-Caso tenha alguma dúvida em alguma etapa, prcure saber na documentação JUnit 5 através desse link https://junit.org/junit5/docs/current/user-guide/
+Caso tenha alguma dúvida em alguma etapa, procure saber na documentação JUnit 5 através desse link https://junit.org/junit5/docs/current/user-guide/
 
 :small_blue_diamond:*Contribuições*
 
